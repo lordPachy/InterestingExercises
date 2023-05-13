@@ -13,6 +13,6 @@ public class Eratosthenes {
         catch (InterruptedException e) {
             System.out.println("Shouldn't happen!");
         }
-        //chain.interrupt();
+        chain.interrupt();
     }
 }
